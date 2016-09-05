@@ -38,6 +38,8 @@ group :development, :test do
   gem 'sqlite3'
   gem 'pry'
   gem 'byebug'
+# gem to run single unit tests. Changed Rake file  
+  gem 'single_test'
 end
 
 group :development do
