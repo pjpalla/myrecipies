@@ -72,3 +72,27 @@ h2 {
   border-top: 1px solid #eaeaea;
   color: #777;
 }
+
+.chef_info{
+  margin-top: 20px;
+  
+}
+
+.gravatar{
+  border-radius: 10px;
+}
+
+.well{
+  background-color: #ededed;
+}
+
+input, textarea, select, .uneditable-input{
+  border: solid 1px #d2d2d2;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+input{
+  height: auto !important;
+}
